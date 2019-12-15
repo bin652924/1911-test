@@ -6,7 +6,7 @@ public class GitDemo {
 
 
         System.out.println("github的第一个");
-
+        System.out.println("github的第一个");
     }
 
 }
